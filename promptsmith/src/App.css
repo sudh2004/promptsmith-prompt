@@ -1,0 +1,102 @@
+.App {
+  width: 796px;
+  height: 400px;
+}
+
+.content
+{
+ padding-top: 2em;
+}
+
+.content-answer{
+  padding-top: 2em;
+}
+
+.heading
+{
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.headings
+{
+  color: rgb(0, 0, 0);
+  padding-bottom: .5em;
+}
+
+.fieldsets-inline
+{
+  margin-top: 3em;
+  display: flex;
+  margin-left: 5em;
+}
+
+.fieldset-prompt{
+  margin-left: 2.5em;
+}
+
+.select
+{
+  border: 2px solid #cdcdfb;
+  border-radius: 3px;
+  width: 10em;
+  height: 2em;
+  background-color:#cdcdfb
+}
+
+.content-search{
+  margin-top: 3em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search
+{
+  width: 45em;
+  height: 2em;
+}
+.button
+{
+  width: 2.5em;
+  height: 4em;
+}
+
+.algo{
+  float: right;
+  margin-top: 6em;
+  margin-right: 3em;
+  color: rgb(255, 0, 0);
+}
+
+.prompts{
+  display: inline;
+  align-items: center;
+  justify-content: center;
+}
+
+.button-prompts
+{
+  width: 600px;
+  text-align: start;
+}
+
+.prompts-expert
+{
+  margin-top: 5em;
+}
+
+.prompts-answers
+{
+  margin: 1em 5em;
+}
+
+.loadinganswer{
+  margin: 0 5em;
+  text-align: justify;
+}
+
+.logo
+{
+  height: 7em; 
+}
